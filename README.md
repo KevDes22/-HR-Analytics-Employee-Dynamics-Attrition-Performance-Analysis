@@ -277,11 +277,10 @@ By acting on the five prioritized recommendations above, the organization can ex
 ## Dashboard Previews
 
 ### Page 1 — Employee Segmentation Analysis
-![Employee Segmentation Dashboard](./assets/segmentation_dashboard.png)
+![Employee Segmentation Dashboard]()
 
 ### Page 2 — Attrition Rate & Performance
-![Attrition & Performance Dashboard](./assets/attrition_dashboard.png)
-
+![Attrition & Performance Dashboard]()
 ---
 
 
