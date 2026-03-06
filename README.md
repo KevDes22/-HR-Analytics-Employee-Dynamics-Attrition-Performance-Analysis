@@ -277,10 +277,10 @@ By acting on the five prioritized recommendations above, the organization can ex
 ## Dashboard Previews
 
 ### Page 1 — Employee Segmentation Analysis
-![Employee Segmentation Dashboard]()
+![Employee Segmentation Dashboard](https://github.com/KevDes22/-HR-Analytics-Employee-Dynamics-Attrition-Performance-Analysis/blob/main/Screenshot%202026-03-06%20202119.png)
 
 ### Page 2 — Attrition Rate & Performance
-![Attrition & Performance Dashboard]()
+![Attrition & Performance Dashboard](https://github.com/KevDes22/-HR-Analytics-Employee-Dynamics-Attrition-Performance-Analysis/blob/main/Screenshot%202026-03-06%20202136.png)
 ---
 
 
