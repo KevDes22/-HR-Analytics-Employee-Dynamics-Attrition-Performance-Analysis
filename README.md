@@ -296,4 +296,4 @@ This project was developed as part of a data analytics portfolio, with a focus o
 
 ---
 
-*📁 Feel free to explore the `.pbix` file, raise issues, or connect on [LinkedIn](https://www.linkedin.com/in/destiny-kevin-0015861a4/) if you'd like to discuss the methodology or findings.*
+*📁 Feel free to explore the project, raise issues, or connect on [LinkedIn](https://www.linkedin.com/in/destiny-kevin-0015861a4/) if you'd like to discuss the methodology or findings.*
